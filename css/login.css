@@ -1,0 +1,24 @@
+.loginArea {
+	background-color: #fff;
+  	
+    margin: auto;
+
+    width: 500px;
+    border-radius: 25px;
+    /*border:3px solid #8AC007;*/
+    padding: 10px;
+    height: 510px;
+
+}
+
+.loginForm {
+
+	margin-top: 40px
+}
+
+.profilePic {
+	margin: auto;
+	height: 90px;
+	width: 90px;
+	border:3px solid #8AC007;
+}
